@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm a Full Stack WordPress Developer</h1>
 <h3 align="center">I am a passionate Full Stack WordPress Developer with a deep love for all things web-related. With 2+ years of experience in the industry, I have honed my skills to create seamless and visually appealing websites that not only meet but exceed the expectations of my clients.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abraizbashir&label=Profile%20views&color=0e75b6&style=flat" alt="abraizbashir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abraizbashir" alt="abraizbashir" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **WordPress, Javascript, React, PHP**
